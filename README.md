@@ -1,6 +1,6 @@
 Git Practice
 
-Learning Git deeply through hands on practice
+Learning Git through VS Code and GitHub projects.
 
 Today I made my first commit
 
@@ -11,3 +11,5 @@ About ME
 Im learning about Git and GitHub
 
 Adding Feature A here
+
+Adding Feature B here
