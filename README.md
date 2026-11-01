@@ -13,3 +13,6 @@ Im learning about Git and GitHub
 Adding Feature A here
 
 Adding Feature B here
+
+Pull Request practice
+Learning how pull requests work
